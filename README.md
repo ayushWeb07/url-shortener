@@ -3,6 +3,9 @@
 A modern and secure **URL Shortener backend** built using **Node.js, Express, TypeScript, PostgreSQL, and Drizzle ORM**.  
 It supports **JWT Authentication**, **URL shortening using nanoid**, and **Zod validation** for clean and safe API requests.
 
+<img width="1611" height="1198" alt="one" src="https://github.com/user-attachments/assets/9738bcb5-edd4-406c-b3c6-2aa71de399a0" />
+<img width="1610" height="1192" alt="two" src="https://github.com/user-attachments/assets/474fbc10-1e42-4ea6-92b6-f56ef7980cb3" />
+
 ---
 
 ## 🚀 Features
